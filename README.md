@@ -1,4 +1,9 @@
-# s1-02-php-basico
-
-    Se ha trabajado PHP Básic y se ha completado el nivel 1
-    
+# Sprint 1
+  **Descripción**: Repositorio de la tasca S1.02.Php Basico
+  
+  ## 🛠 Tecnologies  
+  - PHP 
+  
+  ## 🚀 Instal·lació  
+  1. Clonar el repositori: `git clone ...`  
+  2. Abrir archivos *.php
