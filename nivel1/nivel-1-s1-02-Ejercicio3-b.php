@@ -6,7 +6,6 @@ function calcular ($num1, $num2, $operador) {
     }
 
     // Haremos un cast para asegurar que los numeros se comporten del mismo modo
-    // Usaremos float para numero decimales
     $num1 = (float)$num1;
     $num2 = (float)$num2;
 

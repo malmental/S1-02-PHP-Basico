@@ -28,3 +28,5 @@ function calcularTodo ($punt1, $punt2, $punt3) {
 
 // LLamamos a la funcion para calcular con 3 puntajes
 calcularTodo(1000, 5000, 9000);
+
+?>
