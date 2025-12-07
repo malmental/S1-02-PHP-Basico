@@ -17,5 +17,7 @@ function calcularCostoLlamada($duracion) {
 }
 
 // Ejemplos de uso
-$llamada = 4; // 4 minutos
+$llamada = 4;
 echo "El costo de la llamada es: " . calcularCostoLlamada($llamada) . "€";
+
+?>

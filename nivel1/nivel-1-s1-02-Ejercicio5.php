@@ -2,7 +2,6 @@
 
 function verificacionGrado (float $nota): string
 {
-    // Validacion de datos
     if ($nota < 0 || $nota > 100) {
         return "La nota debe estar comprendida entre 0 y 100";
     }
@@ -20,7 +19,6 @@ function verificacionGrado (float $nota): string
 }
 
 // Verificacion, solo habrá que cambiar el dato con la nota recibida
-
 $titulo = verificacionGrado(30);
 echo "El titulo obtenido: " . $titulo;
 
