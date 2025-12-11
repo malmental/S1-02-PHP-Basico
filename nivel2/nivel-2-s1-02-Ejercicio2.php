@@ -6,7 +6,7 @@ function calcularSuma ($punt1, $punt2, $punt3) {
 
 function calcularMedia ($punt1, $punt2, $punt3) {
     $suma = calcularSuma($punt1, $punt2, $punt3);
-    return $suma / 3;
+    return number_format($suma / 3, 2);
 }
 
 function clasificar ($punt1, $punt2, $punt3) {

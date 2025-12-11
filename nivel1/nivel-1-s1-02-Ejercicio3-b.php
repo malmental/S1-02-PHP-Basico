@@ -5,7 +5,6 @@ function calcular ($num1, $num2, $operador) {
         return "El valor ingresado debe ser un numero";
     }
 
-    // Haremos un cast para asegurar que los numeros se comporten del mismo modo
     $num1 = (float)$num1;
     $num2 = (float)$num2;
 

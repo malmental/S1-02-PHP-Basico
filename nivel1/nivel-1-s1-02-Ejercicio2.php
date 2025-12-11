@@ -1,7 +1,6 @@
 <?php
 
 $str = "hola mundo". PHP_EOL;
-
 echo $str;
 
 $str = strtoupper($str);

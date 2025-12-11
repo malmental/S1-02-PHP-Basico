@@ -5,10 +5,10 @@ $b = 3.15;
 $c = "Esto es una cadena";
 $d = true;
 
-var_dump($a);
-var_dump($b);
-var_dump($c);
-var_dump($d);
+echo $a . PHP_EOL;
+echo $b . PHP_EOL;
+echo $c . PHP_EOL;
+echo $d . PHP_EOL;
 
 const NOMBRE = "Orlando Rojas";
 echo NOMBRE;
